@@ -1,0 +1,82 @@
+{
+  "schemes": {
+    "brand": {
+      "brand-25": {
+        "$value": "#dcf9f9",
+        "$type": "color"
+      },
+      "brand-50": {
+        "$value": "#caf6f6",
+        "$type": "color"
+      },
+      "brand-100": {
+        "$value": "#a7f1ef",
+        "$type": "color"
+      },
+      "brand-200": {
+        "$value": "#84ebe9",
+        "$type": "color"
+      },
+      "brand-300": {
+        "$value": "#61e5e3",
+        "$type": "color"
+      },
+      "brand-400": {
+        "$value": "#50e2e0",
+        "$type": "color"
+      },
+      "brand-500": {
+        "$value": "#2cddda",
+        "$type": "color"
+      },
+      "brand-600": {
+        "$value": "#1fc1be",
+        "$type": "color"
+      },
+      "brand-700": {
+        "$value": "#1a9e9c",
+        "$type": "color"
+      },
+      "brand-800": {
+        "$value": "#178c8a",
+        "$type": "color"
+      },
+      "brand-900": {
+        "$value": "#116968",
+        "$type": "color"
+      },
+      "brand-950": {
+        "$value": "#0b4645",
+        "$type": "color"
+      }
+    }
+  },
+  "state layers": {
+    "text color": {
+      "main": {
+        "text-quaternary_on-brand": {
+          "$value": "{schemes.brand.brand-200}",
+          "$type": "color"
+        }
+      }
+    },
+    "background color": {
+      "main": {
+        "bg-secondary": {
+          "$value": "{schemes.gray (light).gray-50}",
+          "$type": "color"
+        }
+      },
+      "brand": {
+        "bg-brand-primary": {
+          "$value": "{schemes.brand.brand-100}",
+          "$type": "color"
+        },
+        "bg-brand-primary_alt": {
+          "$value": "{schemes.brand.brand-200}",
+          "$type": "color"
+        }
+      }
+    }
+  }
+}
