@@ -1,0 +1,260 @@
+{
+  "Noto Sans": {
+    "text-2xs": {
+      "regular": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 400,
+          "fontSize": 10,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "semi-bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 600,
+          "fontSize": 10,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 700,
+          "fontSize": 10,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      }
+    },
+    "text-xs": {
+      "regular": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 400,
+          "fontSize": 12,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "semi-bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 600,
+          "fontSize": 12,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 700,
+          "fontSize": 12,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      }
+    },
+    "text-sm": {
+      "regular": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 400,
+          "fontSize": 14,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "semi-bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 600,
+          "fontSize": 14,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 700,
+          "fontSize": 14,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      }
+    },
+    "text-md": {
+      "regular": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 400,
+          "fontSize": 16,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "semi-bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 600,
+          "fontSize": 16,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 700,
+          "fontSize": 16,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      }
+    },
+    "text-lg": {
+      "regular": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 400,
+          "fontSize": 20,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "semi-bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 600,
+          "fontSize": 20,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 700,
+          "fontSize": 20,
+          "lineHeight": "120.00000476837158%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      }
+    },
+    "text-xl": {
+      "regular": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 400,
+          "fontSize": 24,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "semi-bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 600,
+          "fontSize": 24,
+          "lineHeight": "120.00000476837158%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 700,
+          "fontSize": 24,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      }
+    },
+    "text-2xl": {
+      "regular": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 400,
+          "fontSize": 32,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "semi-bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 600,
+          "fontSize": 32,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 700,
+          "fontSize": 32,
+          "lineHeight": "120.00000476837158%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      }
+    },
+    "text-3xl": {
+      "regular": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 400,
+          "fontSize": 40,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "semi-bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 600,
+          "fontSize": 40,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      },
+      "bold": {
+        "$value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": 700,
+          "fontSize": 40,
+          "lineHeight": "139.9999976158142%",
+          "letterSpacing": 0
+        },
+        "$type": "typography"
+      }
+    }
+  }
+}
