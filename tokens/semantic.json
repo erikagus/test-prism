@@ -1,0 +1,368 @@
+{
+  "state layers": {
+    "text color": {
+      "main": {
+        "text-primary": {
+          "$value": "{schemes.gray (light).gray-900}",
+          "$type": "color"
+        },
+        "text-primary_on-brand": {
+          "$value": "{schemes.base.white}",
+          "$type": "color"
+        },
+        "text-secondary": {
+          "$value": "{schemes.gray (light).gray-700}",
+          "$type": "color"
+        },
+        "text-secondary_hover": {
+          "$value": "{schemes.gray (light).gray-800}",
+          "$type": "color"
+        },
+        "text-secondary_on-brand": {
+          "$value": "{schemes.brand.brand-200}",
+          "$type": "color"
+        },
+        "text-tertiary": {
+          "$value": "{schemes.gray (light).gray-600}",
+          "$type": "color"
+        },
+        "text-tertiary_hover": {
+          "$value": "{schemes.gray (light).gray-700}",
+          "$type": "color"
+        },
+        "text-tertiary_on-brand": {
+          "$value": "{schemes.brand.brand-200}",
+          "$type": "color"
+        },
+        "text-quaternary": {
+          "$value": "{schemes.gray (light).gray-500}",
+          "$type": "color"
+        }
+      },
+      "negative": {
+        "text-white": {
+          "$value": "{schemes.base.white}",
+          "$type": "color"
+        },
+        "text-disabled": {
+          "$value": "{schemes.gray (light).gray-400}",
+          "$type": "color"
+        },
+        "text-placeholder": {
+          "$value": "{schemes.gray (light).gray-400}",
+          "$type": "color"
+        },
+        "text-placeholder_subtle": {
+          "$value": "{schemes.gray (light).gray-200}",
+          "$type": "color"
+        }
+      },
+      "brand": {
+        "text-brand-primary": {
+          "$value": "{schemes.brand.brand-500}",
+          "$type": "color"
+        },
+        "text-brand-secondary": {
+          "$value": "{schemes.brand.brand-600}",
+          "$type": "color"
+        },
+        "text-brand-tertiary": {
+          "$value": "{schemes.brand.brand-700}",
+          "$type": "color"
+        },
+        "text-brand-tertiary_alt": {
+          "$value": "{schemes.brand.brand-800}",
+          "$type": "color"
+        }
+      },
+      "state": {
+        "text-error-primary": {
+          "$value": "{schemes.error.error-600}",
+          "$type": "color"
+        },
+        "text-warning-primary": {
+          "$value": "{schemes.warning.warning-600}",
+          "$type": "color"
+        },
+        "text-success-primary": {
+          "$value": "{schemes.success.success-600}",
+          "$type": "color"
+        }
+      }
+    },
+    "border color": {
+      "main": {
+        "border-primary": {
+          "$value": "{schemes.gray (light).gray-300}",
+          "$type": "color"
+        },
+        "border-secondary": {
+          "$value": "{schemes.gray (light).gray-400}",
+          "$type": "color"
+        },
+        "border-tertiary": {
+          "$value": "{schemes.gray (light).gray-400}",
+          "$type": "color"
+        }
+      },
+      "negative": {
+        "border-disabled": {
+          "$value": "{schemes.gray (light).gray-200}",
+          "$type": "color"
+        },
+        "border-disabled_subtle": {
+          "$value": "{schemes.gray (light).gray-50}",
+          "$type": "color"
+        }
+      },
+      "brand": {
+        "border-brand": {
+          "$value": "{schemes.brand.brand-300}",
+          "$type": "color"
+        },
+        "border-brand-solid": {
+          "$value": "{schemes.brand.brand-500}",
+          "$type": "color"
+        },
+        "border-brand-solid_alt": {
+          "$value": "{schemes.brand.brand-600}",
+          "$type": "color"
+        }
+      },
+      "state": {
+        "border-error": {
+          "$value": "{schemes.error.error-300}",
+          "$type": "color"
+        },
+        "border-error-solid": {
+          "$value": "{schemes.error.error-600}",
+          "$type": "color"
+        }
+      }
+    },
+    "foreground color": {
+      "main": {
+        "fg-primary": {
+          "$value": "{schemes.gray (light).gray-900}",
+          "$type": "color"
+        },
+        "fg-secondary": {
+          "$value": "{schemes.gray (light).gray-600}",
+          "$type": "color"
+        },
+        "fg-secondary_hover": {
+          "$value": "{schemes.gray (light).gray-800}",
+          "$type": "color"
+        },
+        "fg-tertiary": {
+          "$value": "{schemes.gray (light).gray-500}",
+          "$type": "color"
+        },
+        "fg-tertiary_hover": {
+          "$value": "{schemes.gray (light).gray-700}",
+          "$type": "color"
+        },
+        "fg-quaternary": {
+          "$value": "{schemes.gray (light).gray-400}",
+          "$type": "color"
+        },
+        "fg-quaternary_hover": {
+          "$value": "{schemes.gray (light).gray-600}",
+          "$type": "color"
+        },
+        "fg-quinary": {
+          "$value": "{schemes.gray (light).gray-300}",
+          "$type": "color"
+        },
+        "fg-quinary_hover": {
+          "$value": "{schemes.gray (light).gray-500}",
+          "$type": "color"
+        },
+        "fg-senary": {
+          "$value": "{schemes.gray (light).gray-200}",
+          "$type": "color"
+        }
+      },
+      "negative": {
+        "fg-white": {
+          "$value": "{schemes.base.white}",
+          "$type": "color"
+        },
+        "fg-disabled": {
+          "$value": "{schemes.gray (light).gray-400}",
+          "$type": "color"
+        },
+        "fg-disabled_subtle": {
+          "$value": "{schemes.gray (light).gray-300}",
+          "$type": "color"
+        }
+      },
+      "brand": {
+        "fg-brand-primary": {
+          "$value": "{schemes.brand.brand-500}",
+          "$type": "color"
+        },
+        "fg-brand-primary_alt": {
+          "$value": "{schemes.brand.brand-600}",
+          "$type": "color"
+        },
+        "fg-brand-secondary": {
+          "$value": "{schemes.brand.brand-400}",
+          "$type": "color"
+        }
+      },
+      "state": {
+        "fg-error-primary": {
+          "$value": "{schemes.error.error-600}",
+          "$type": "color"
+        },
+        "fg-error-secondary": {
+          "$value": "{schemes.error.error-500}",
+          "$type": "color"
+        },
+        "fg-warning-primary": {
+          "$value": "{schemes.warning.warning-600}",
+          "$type": "color"
+        },
+        "fg-warning-secondary": {
+          "$value": "{schemes.warning.warning-500}",
+          "$type": "color"
+        },
+        "fg-success-primary": {
+          "$value": "{schemes.success.success-600}",
+          "$type": "color"
+        },
+        "fg-success-secondary": {
+          "$value": "{schemes.success.success-500}",
+          "$type": "color"
+        }
+      }
+    },
+    "background color": {
+      "main": {
+        "bg-primary": {
+          "$value": "{schemes.base.white}",
+          "$type": "color"
+        },
+        "bg-primary_alt": {
+          "$value": "{schemes.gray (light).gray-50}",
+          "$type": "color"
+        },
+        "bg-primary_hover": {
+          "$value": "{schemes.gray (light).gray-100}",
+          "$type": "color"
+        },
+        "bg-primary-solid": {
+          "$value": "{schemes.gray (light).gray-950}",
+          "$type": "color"
+        },
+        "bg-secondary_alt": {
+          "$value": "{schemes.gray (light).gray-50}",
+          "$type": "color"
+        },
+        "bg-secondary_hover": {
+          "$value": "{schemes.gray (light).gray-200}",
+          "$type": "color"
+        },
+        "bg-secondary_subtle": {
+          "$value": "{schemes.gray (light).gray-300}",
+          "$type": "color"
+        },
+        "bg-secondary-solid": {
+          "$value": "{schemes.gray (light).gray-600}",
+          "$type": "color"
+        },
+        "bg-tertiary": {
+          "$value": "{schemes.gray (light).gray-100}",
+          "$type": "color"
+        },
+        "bg-quaternary": {
+          "$value": "{schemes.base.grey-2}",
+          "$type": "color"
+        }
+      },
+      "negative": {
+        "bg-active": {
+          "$value": "{schemes.gray (light).gray-50}",
+          "$type": "color"
+        },
+        "bg-disabled": {
+          "$value": "{schemes.gray (light).gray-100}",
+          "$type": "color"
+        },
+        "bg-disabled_subtle": {
+          "$value": "{schemes.gray (light).gray-50}",
+          "$type": "color"
+        },
+        "bg-overlay": {
+          "$value": "{schemes.gray (light).gray-950}",
+          "$type": "color"
+        }
+      },
+      "brand": {
+        "bg-brand-secondary": {
+          "$value": "{schemes.brand.brand-300}",
+          "$type": "color"
+        },
+        "bg-brand-solid": {
+          "$value": "{schemes.brand.brand-500}",
+          "$type": "color"
+        },
+        "bg-brand-solid_hover": {
+          "$value": "{schemes.brand.brand-600}",
+          "$type": "color"
+        },
+        "bg-brand-section": {
+          "$value": "{schemes.brand.brand-800}",
+          "$type": "color"
+        },
+        "bg-brand-section_subtle": {
+          "$value": "{schemes.brand.brand-700}",
+          "$type": "color"
+        }
+      },
+      "state": {
+        "bg-error-primary": {
+          "$value": "{schemes.error.error-50}",
+          "$type": "color"
+        },
+        "bg-error-secondary": {
+          "$value": "{schemes.error.error-100}",
+          "$type": "color"
+        },
+        "bg-error-solid": {
+          "$value": "{schemes.error.error-500}",
+          "$type": "color"
+        },
+        "bg-warning-primary": {
+          "$value": "{schemes.warning.warning-50}",
+          "$type": "color"
+        },
+        "bg-warning-secondary": {
+          "$value": "{schemes.warning.warning-100}",
+          "$type": "color"
+        },
+        "bg-warning-solid": {
+          "$value": "{schemes.warning.warning-600}",
+          "$type": "color"
+        },
+        "bg-success-primary": {
+          "$value": "{schemes.success.success-50}",
+          "$type": "color"
+        },
+        "bg-success-secondary": {
+          "$value": "{schemes.success.success-100}",
+          "$type": "color"
+        },
+        "bg-success-solid": {
+          "$value": "{schemes.success.success-600}",
+          "$type": "color"
+        },
+        "bg-error-solid_hover": {
+          "$value": "{schemes.error.error-600}",
+          "$type": "color"
+        }
+      }
+    }
+  }
+}
