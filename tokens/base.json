@@ -361,90 +361,90 @@
   },
   "spacing": {
     "1": {
-      "$value": 4,
-      "$type": "number"
+      "$value": "4px",
+      "$type": "dimension"
     },
     "2": {
-      "$value": 8,
-      "$type": "number"
+      "$value": "8px",
+      "$type": "dimension"
     },
     "3": {
-      "$value": 12,
-      "$type": "number"
+      "$value": "12px",
+      "$type": "dimension"
     },
     "4": {
-      "$value": 16,
-      "$type": "number"
+      "$value": "16px",
+      "$type": "dimension"
     },
     "5": {
-      "$value": 20,
-      "$type": "number"
+      "$value": "20px",
+      "$type": "dimension"
     },
     "6": {
-      "$value": 24,
-      "$type": "number"
+      "$value": "24px",
+      "$type": "dimension"
     },
     "7": {
-      "$value": 32,
-      "$type": "number"
+      "$value": "32px",
+      "$type": "dimension"
     },
     "8": {
-      "$value": 40,
-      "$type": "number"
+      "$value": "40px",
+      "$type": "dimension"
     },
     "9": {
-      "$value": 48,
-      "$type": "number"
+      "$value": "48px",
+      "$type": "dimension"
     },
     "10": {
-      "$value": 56,
-      "$type": "number"
+      "$value": "56px",
+      "$type": "dimension"
     },
     "11": {
-      "$value": 64,
-      "$type": "number"
+      "$value": "64px",
+      "$type": "dimension"
     },
     "12": {
-      "$value": 72,
-      "$type": "number"
+      "$value": "72px",
+      "$type": "dimension"
     },
     ",5": {
-      "$value": 2,
-      "$type": "number"
+      "$value": "2px",
+      "$type": "dimension"
     }
   },
   "radius": {
     "2xs": {
-      "$value": 2,
-      "$type": "number"
+      "$value": "2px",
+      "$type": "dimension"
     },
     "xs": {
-      "$value": 4,
-      "$type": "number"
+      "$value": "4px",
+      "$type": "dimension"
     },
     "sm": {
-      "$value": 8,
-      "$type": "number"
+      "$value": "8px",
+      "$type": "dimension"
     },
     "base": {
-      "$value": 12,
-      "$type": "number"
+      "$value": "12px",
+      "$type": "dimension"
     },
     "lg": {
-      "$value": 24,
-      "$type": "number"
+      "$value": "24px",
+      "$type": "dimension"
     },
     "xl": {
-      "$value": 32,
-      "$type": "number"
+      "$value": "32px",
+      "$type": "dimension"
     },
     "2xl": {
-      "$value": 64,
-      "$type": "number"
+      "$value": "64px",
+      "$type": "dimension"
     },
     "3xl": {
-      "$value": 16,
-      "$type": "number"
+      "$value": "16px",
+      "$type": "dimension"
     }
   }
 }

@@ -168,27 +168,27 @@
   --state-layers-background-color-state-bg-error-solid-hover: var(--schemes-error-error-600);
   --schemes-base-grey: #f9fafb;
   --schemes-base-grey-2: #f6f9fd;
-  --spacing-5: 2;
-  --spacing-1: 4;
-  --spacing-2: 8;
-  --spacing-3: 12;
-  --spacing-4: 16;
-  --spacing-5: 20;
-  --spacing-6: 24;
-  --spacing-7: 32;
-  --spacing-8: 40;
-  --spacing-9: 48;
-  --spacing-10: 56;
-  --spacing-11: 64;
-  --spacing-12: 72;
-  --radius-2xs: 2;
-  --radius-xs: 4;
-  --radius-sm: 8;
-  --radius-base: 12;
-  --radius-lg: 24;
-  --radius-xl: 32;
-  --radius-2xl: 64;
-  --radius-3xl: 16;
+  --spacing-5: 2px;
+  --spacing-1: 4px;
+  --spacing-2: 8px;
+  --spacing-3: 12px;
+  --spacing-4: 16px;
+  --spacing-5: 20px;
+  --spacing-6: 24px;
+  --spacing-7: 32px;
+  --spacing-8: 40px;
+  --spacing-9: 48px;
+  --spacing-10: 56px;
+  --spacing-11: 64px;
+  --spacing-12: 72px;
+  --radius-2xs: 2px;
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-base: 12px;
+  --radius-lg: 24px;
+  --radius-xl: 32px;
+  --radius-2xl: 64px;
+  --radius-3xl: 16px;
 }
 
 /* Andal Kharisma */
